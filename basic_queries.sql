@@ -50,7 +50,7 @@ SELECT *
 FROM Students
 ORDER BY Marks DESC;
 
--- Display students sorted by Name (A to Z)
+-- Display students sorted by Name (A to Z
 SELECT *
 FROM Students
 ORDER BY Name ASC;
